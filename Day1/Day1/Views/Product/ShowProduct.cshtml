@@ -1,0 +1,54 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<h1>My First view</h1>
+<style>
+</style>
+    <table class ="table table-bordered table-hover">
+        <caption>Data</caption>
+        <thead>
+            <tr>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Age</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Rahma</td>
+                <td>Mohmed</td>
+                <td>21</td>
+            </tr>
+            <tr>
+                <td>Omar</td>
+                <td>Walead</td>
+                <td>10</td>
+            </tr>
+        </tbody>
+    </table>
+@* 
+
+ *@
+
+ @DateTime.Now.ToLocalTime()
+
+@{
+    int x = 5;
+    int y = x + 5;
+}
+@if(x > 0)
+{
+    <h1> @x is greater than 0 </h1>
+}
+else
+{
+    <h1> @x is smaller than or equals 0 </h1>
+}
+
+@for(int i = 1; i < 5; i++)
+{
+    <h3> @i </h3>
+}

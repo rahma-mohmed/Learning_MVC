@@ -1,0 +1,42 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    .card:hover {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transform: scale(1.05);
+    }
+    .card {
+        display: inline-block;
+        width: 30%;
+        border: 1px solid #ccc;
+        transition: box-shadow 0.3s, transform 0.3s;
+        margin: 10px;
+    }
+
+    .card-header, .card-body, .card-footer {
+        padding: 10px;
+        text-align: center;
+    }
+</style>
+@foreach(var item in Model)
+{
+    @* <div style= "border : 1px solid red">
+        <h1>@item.Name</h1>
+        <input type="hidden" value="@item.Id" />
+        <img src="\Images\@item.Image" style="width:200px; height:150px" />
+        <h3>@item.price</h3>
+    </div> *@
+
+    <div class = "card">
+        <div class="card-header">@item.Name</div>
+        <div class = "card-body">
+             <h4 class = "card-title">Description..</h4>
+            <p class="card-text"><img src="\Images\@item.Image" style="width:200px; height:150px ; position :center" /></p>
+        </div>
+        <div class="card-footer">@item.price</div>
+        <br>
+   </div>
+}

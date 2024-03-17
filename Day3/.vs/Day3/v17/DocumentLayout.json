@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\just try c#\\MVC\\Day3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|d:\\just try c#\\mvc\\day3\\views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|solutionrelative:views\\dept\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|d:\\just try c#\\mvc\\day3\\controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|solutionrelative:controllers\\statecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|d:\\just try c#\\mvc\\day3\\views\\passdata\\showstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|solutionrelative:views\\passdata\\showstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|d:\\just try c#\\mvc\\day3\\viewmodel\\studentnamewithdeptnameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CE9EAA-25C1-4043-9AB3-C8A7E2C9ABA6}|Day3.csproj|solutionrelative:viewmodel\\studentnamewithdeptnameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Day3\\Views\\Dept\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Dept\\Index.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Day3\\Views\\Dept\\Index.cshtml",
+              "RelativeToolTip": "Views\\Dept\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:50:39.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowStudent.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Day3\\Views\\PassData\\ShowStudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\PassData\\ShowStudent.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Day3\\Views\\PassData\\ShowStudent.cshtml",
+              "RelativeToolTip": "Views\\PassData\\ShowStudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-17T11:41:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Day3\\Controllers\\StateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StateController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Day3\\Controllers\\StateController.cs",
+              "RelativeToolTip": "Controllers\\StateController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAEUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:16:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentNameWithDeptNameViewModel.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Day3\\ViewModel\\StudentNameWithDeptNameViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\StudentNameWithDeptNameViewModel.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Day3\\ViewModel\\StudentNameWithDeptNameViewModel.cs",
+              "RelativeToolTip": "ViewModel\\StudentNameWithDeptNameViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T11:40:48.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
