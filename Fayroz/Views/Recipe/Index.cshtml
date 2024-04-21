@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Recipe";
+}
+<style>
+        #recipe-list{
+            top: 5rem;
+        }
+        
+        #recipe-list::-webkit-scrollbar {
+            width: 8px;
+        }
+
+
+        #recipe-list::-webkit-scrollbar-thumb {
+        background-color: #369AEB;
+        border-radius: 10px;
+        }
+        .recipe-item{
+            padding:15px;
+        }
+        .recipe-item:hover {
+            background-color: #369AEB;
+            border-radius: 10px;
+        }
+
+        .recipe-item:hover a{
+            color: white !important;
+        }
+        hr{
+            padding:0px;
+            margin:0px;
+        }
+
+</style>
+
+<div class="container-fluid">
+    <div class="row mb-4">
+        <div class="col-12">
+            @Html.Partial("_SearchBar")
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-4">
+            <div class="shadow rounded">
+                <div class="border-bottom border-3 p-2">
+                    <h4 class="text-center fst-italic" style="color:#155e75">Recipes</h4>
+                        @Html.Partial("_SideMenu")
+                </div>
+            </div>
+        </div>
+
+        <div class="col-8" style="color:#369AEB">
+            <div class="mb-3">
+                <h4>Cake</h4>
+                <div class="row" id="strawberryCakeRecipe"></div>
+            </div>
+
+            <div class="mb-3">
+                <h4>Kunafa</h4>
+                <div class="row" id="KunafaRecipe"></div>
+            </div>
+
+            <div class="mb-3">
+                <h4>Pie</h4>
+                <div class="row" id="pieRecipe"></div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+
+
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        GetRecipes("cake", "strawberryCakeRecipe" , false);
+        GetRecipes("Kunafa", "KunafaRecipe", false);
+        GetRecipes("pie", "pieRecipe", false);
+    });
+</script>
+

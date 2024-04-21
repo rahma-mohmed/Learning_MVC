@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\Day5\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\views\\dept\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\views\\dept\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\deptcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|d:\\mvc\\day5\\day1\\day1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7ECBDE55-D9C7-459D-BF4D-141D56B3389D}|Day1\\Day1.csproj|solutionrelative:day1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Department.cs",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Models\\Department.cs",
+              "RelativeToolTip": "Day1\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T22:02:26.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeptController.cs",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Controllers\\DeptController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\DeptController.cs",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Controllers\\DeptController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\DeptController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:59:47.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Views\\Dept\\Add.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\Dept\\Add.cshtml",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Views\\Dept\\Add.cshtml",
+              "RelativeToolTip": "Day1\\Views\\Dept\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:57:06.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day1\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day1\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T20:59:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Day1\\Models\\Student.cs",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Models\\Student.cs",
+              "RelativeToolTip": "Day1\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T21:21:08.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MVC\\Day5\\Day1\\Day1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Day1\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MVC\\Day5\\Day1\\Day1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Day1\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T21:02:41.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

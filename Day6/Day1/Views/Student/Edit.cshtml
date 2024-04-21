@@ -1,0 +1,43 @@
+﻿@model Student
+@{
+    //list<Department>==>SeectList:IEnumerable<SelectedListItem>
+    SelectList deptList = 
+         new SelectList(ViewBag.Depts,"Id","Name",Model.Dept);
+
+}
+<form method="post" action="\Student\SaveEdit\@Model.ID">
+    <div>
+        <label asp-for="Name"></label>
+        <input type="text" name="Name" id="Name" value="@Model.Name" class="form-control" />
+  </div>
+   <div>
+       <label for="Age">Age</label>
+       <input type="text"  name="Age" id="Age" value="@Model.Age" class="form-control" />
+  </div>
+   <div>
+       <label for="Address">Address</label>
+       <input type="text" name="Address" id="Address" value="@Model.Address" class="form-control" />
+  </div>
+   <div>
+       <label for="Image">Image</label>
+       <input type="text" name="Image" id="Image" value="@Model.Image" class="form-control" />
+  </div>
+   <div>
+        <label for="Dept">DEpartment</label>
+        @*<input type="text" name="Dept" id="Dept" value="@Model.Dept" class="form-control" />*@
+        @Html.DropDownListFor(s=>s.Dept,deptList,"--select Depts---",new{@class="form-control",style="color:red"})
+
+   @*     <select name="Dept" id="Dept" class="form-control">
+           @foreach (var departmentItem in ViewBag.Depts)
+            {
+                if (departmentItem.Id == Model.Dept)//
+                {
+                    <option value="@departmentItem.Id" selected>@departmentItem.Name</option>
+                }else{
+                    <option value="@departmentItem.Id" >@departmentItem.Name</option>
+                }
+           }
+        </select>*@
+    </div>
+    <input type="submit" class="btn btn-sucess" value="Save" />
+</form>

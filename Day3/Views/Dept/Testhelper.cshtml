@@ -1,0 +1,65 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Department
+@* @Html.TextBox("Name", "", new { style = "background-color:black;color:white", @class = "form-control" })
+<br />
+@Html.TextBoxFor(d => d.Name, new { style = "background-color:black;color:white", @class = "form-control" }) *@
+
+@* @Html.Editor("Name") *@
+
+@Html.EditorFor(x => x.Name ,
+    new
+    { htmlAttributes=
+        new{
+            style="color : red",
+            @class="form-control",
+        }
+})
+<br />
+<br />
+
+<form mehod ="get"> 
+    @* <input type="checkbox" value="true" name="Agree"/> Check Me
+    <input type="hidden" value="false" name="Agree" /> 
+    *@ 
+
+ @Html.CheckBox("Agree") I Agree
+ <br />
+    <button type="submit">Send</button>
+</form>
+
+@Html.LabelFor(x=>x.Name)
+
+<form>
+    <h2>Select favorite sport</h2>
+    <input type="radio" name="gender" value="Male" /> Male
+    <input type="radio" name="gender" value="Female" /> Female
+
+    <br />
+    <input type="checkbox" value="Football" name="sport" />Football
+    <input type="checkbox" value="Volyball" name="sport" />Volyball
+    <input type="submit" value="submit" />
+
+</form>
+
+@using(@Html.BeginForm("SaveAdd", "Dept",FormMethod.Get)){
+    <div>
+        @Html.LabelFor(d => d.Name)
+        @Html.EditorFor(d => d.Name)
+
+            <br />
+        @Html.LabelFor(d => d.Manager)
+        @Html.EditorFor(d => d.Manager)
+
+        <input type="submit" value="add" />
+    </div>
+}
+
+<br/>
+
+@Html.ActionLink("Show all department", "ShowDeptDetails", "Dept", null, new { @class = "btn btn-success" })
+<br /> <br /> 
+@Html.ActionLink("Edit", "Edit", "Ins", new{id = 1}, new { @class = "btn btn-success" })

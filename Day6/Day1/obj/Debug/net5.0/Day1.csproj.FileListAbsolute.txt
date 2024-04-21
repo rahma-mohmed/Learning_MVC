@@ -1,0 +1,264 @@
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\appsettings.json
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.exe
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.deps.json
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.json
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.dev.json
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\ref\Day1.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.Views.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Day1.Views.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.csproj.AssemblyReference.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfoInputs.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfo.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.csproj.CoreCompileInputs.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\scopedcss\bundle\Day1.styles.css
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\staticwebassets\Day1.StaticWebAssets.Manifest.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.TagHelpers.input.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.TagHelpers.output.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.RazorCoreGenerate.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.Views.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\ref\Day1.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.genruntimeconfig.cache
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Day1.csproj.CopyComplete
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\ShowPRoduct.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\getAll.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\Index.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\ShowAllStudent.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\PassData\Index.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\PassData\ShowStudentDEtails.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\Add.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\TestHelper.cshtml.g.cs
+C:\Users\Christen\Desktop\FS Intake 42\Day1\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Add.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\appsettings.Development.json
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\appsettings.json
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.exe
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.deps.json
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.json
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.runtimeconfig.dev.json
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.Views.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Day1.Views.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Humanizer.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\MVC\Day5\Day1\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.csproj.AssemblyReference.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfoInputs.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.AssemblyInfo.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.csproj.CoreCompileInputs.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.TagHelpers.input.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.TagHelpers.output.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.RazorCoreGenerate.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\Add.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\Index.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\ShowAllStudent.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Dept\TestHelper.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\PassData\Index.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\PassData\ShowStudentDEtails.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\getAll.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Product\ShowPRoduct.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Add.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cs
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.Views.pdb
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\scopedcss\bundle\Day1.styles.css
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\Day1.StaticWebAssets.Manifest.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\Day1.StaticWebAssets.Pack.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\msbuild.build.Day1.props
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Day1.props
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Day1.props
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.csproj.Up2Date
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.dll
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\refint\Day1.dll
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.pdb
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Day1.genruntimeconfig.cache
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\ref\Day1.dll
+D:\MVC\Day5\Day1\Day1\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\appsettings.Development.json
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\appsettings.json
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.exe
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.deps.json
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.runtimeconfig.json
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.runtimeconfig.dev.json
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.Views.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Day1.Views.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Humanizer.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\just try c#\MVC\Day6\Day1\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.csproj.AssemblyReference.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.AssemblyInfoInputs.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.AssemblyInfo.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.csproj.CoreCompileInputs.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.MvcApplicationPartsAssemblyInfo.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.RazorAssemblyInfo.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.sourcelink.json
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.TagHelpers.input.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.TagHelpers.output.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.RazorCoreGenerate.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Dept\Add.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Dept\Index.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Dept\ShowAllStudent.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Dept\TestHelper.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\PassData\Index.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\PassData\ShowStudentDEtails.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Product\getAll.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Product\ShowPRoduct.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Shared\_Layout2.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Student\Add.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Student\Edit.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\Student\Index.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.RazorTargetAssemblyInfo.cs
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.Views.pdb
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\scopedcss\bundle\Day1.styles.css
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\Day1.StaticWebAssets.Manifest.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\Day1.StaticWebAssets.Pack.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\msbuild.Day1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\msbuild.build.Day1.props
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.Day1.props
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Day1.props
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.csproj.Up2Date
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.dll
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\refint\Day1.dll
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.pdb
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\Day1.genruntimeconfig.cache
+D:\just try c#\MVC\Day6\Day1\obj\Debug\net5.0\ref\Day1.dll

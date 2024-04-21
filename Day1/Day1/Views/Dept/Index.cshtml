@@ -1,0 +1,40 @@
+﻿@model List<Department>
+<!--Strong Type View-->
+<!-- List<Department> -->
+
+@{
+    Layout = null;
+}
+
+@* @section HeaderAdd{
+    <h2>Add From Header</h2>
+}
+
+@section FooterAdd {
+    <h2>Add From Footer</h2>
+}
+
+
+@section MenuAdd {
+    <h2>Add From Menu</h2>
+} *@
+<table class="table table-bordered table-hover" width="50%">
+    <tr>
+        <th>
+            Department Name
+        </th>
+        <th>
+            Manager Name
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.ManagerName</td>
+        </tr>
+    }
+</table>
+
+
+<a href="\Dept\Add" class="btn btn-alert-success">Add New DEpartment</a>

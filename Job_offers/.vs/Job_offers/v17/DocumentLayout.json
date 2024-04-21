@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\just try c#\\MVC\\Job_offers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\jobs\\confirm_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\jobs\\confirm_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\jobs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\jobs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\jobs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\accounts\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:controllers\\jobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\jobs\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\jobs\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\shared\\_login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\categories\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\categories\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\categories\\confirm_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\categories\\confirm_delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\models\\jobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:models\\jobcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\roles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:models\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\wwwroot\\css\\layoutstyling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:wwwroot\\css\\layoutstyling.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:models\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|d:\\just try c#\\mvc\\job_offers\\views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2D74A42-EFA6-4253-8B8F-42C29E7AFCAF}|Job_offers.csproj|solutionrelative:views\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Confirm_delete.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Confirm_delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\Confirm_delete.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Confirm_delete.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\Confirm_delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T17:58:05.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T01:42:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Accounts\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Add.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Accounts\\Add.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Add.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T13:30:39.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\Edit.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\Edit.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAFQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T14:40:08.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:17:30.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:42:34.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAADsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:29:35.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB8AAADMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:17:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JobsController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\JobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\JobsController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\JobsController.cs",
+              "RelativeToolTip": "Controllers\\JobsController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAAAEoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T23:55:02.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\Details.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Details.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\Details.cshtml",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:17:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Jobs\\Add.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Jobs\\Add.cshtml",
+              "RelativeToolTip": "Views\\Jobs\\Add.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:39:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_login.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_login.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_login.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:09:49.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T10:07:26.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Categories\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\AddCategory.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Categories\\AddCategory.cshtml",
+              "RelativeToolTip": "Views\\Categories\\AddCategory.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-21T13:17:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Confirm_delete.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Categories\\Confirm_delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categories\\Confirm_delete.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Categories\\Confirm_delete.cshtml",
+              "RelativeToolTip": "Views\\Categories\\Confirm_delete.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:16:13.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:17:25.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JobContext.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Models\\JobContext.cs",
+              "RelativeDocumentMoniker": "Models\\JobContext.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Models\\JobContext.cs",
+              "RelativeToolTip": "Models\\JobContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T13:10:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "Models\\Account.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Models\\Account.cs",
+              "RelativeToolTip": "Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:55:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Job.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Models\\Job.cs",
+              "RelativeDocumentMoniker": "Models\\Job.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Models\\Job.cs",
+              "RelativeToolTip": "Models\\Job.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:55:32.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Models\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RoleViewModel.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Models\\RoleViewModel.cs",
+              "RelativeToolTip": "Models\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:10:45.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Roles\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Roles\\Index.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Roles\\Index.cshtml",
+              "RelativeToolTip": "Views\\Roles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T03:17:09.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T03:12:41.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LayoutStyling.css",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\wwwroot\\css\\LayoutStyling.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\LayoutStyling.css",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\wwwroot\\css\\LayoutStyling.css",
+              "RelativeToolTip": "wwwroot\\css\\LayoutStyling.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T02:20:17.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\just try c#\\MVC\\Job_offers\\Views\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Accounts\\Index.cshtml",
+              "ToolTip": "D:\\just try c#\\MVC\\Job_offers\\Views\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Accounts\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T16:32:50.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

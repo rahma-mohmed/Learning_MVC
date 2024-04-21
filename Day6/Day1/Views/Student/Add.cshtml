@@ -1,0 +1,46 @@
+﻿@model Student 
+@{
+    SelectList depts;
+    if(Model !=null)
+    {
+        depts=new SelectList(ViewBag.Depts,"Id","Name",Model.Dept);
+    }
+    else
+    {
+        depts=new SelectList(ViewBag.Depts,"Id","Name");
+    }
+}
+<form method="post" asp-action="SaveAdd" asp-controller="Student">
+    <div>
+        <label asp-for="Name"></label>
+       @* <input type="text" name="Name" id="Name" value="@Model.Name" class="form-control" />
+        @Html.EditorFor(s=>s.Name,new {htmlAttributes=new{@class="form-control"}})*@
+        <input asp-for="Name"  class="form-control" />
+  </div>
+   <div>
+       <label asp-for="Age"></label>
+       <input asp-for="Age" class="form-control"/>
+  </div>
+   <div>
+       <label asp-for="Address"></label>
+       <input asp-for="Address" class="form-control" />
+  </div>
+   <div>
+       <label asp-for="Image"></label>
+       <input asp-for="Image"  class="form-control" />
+  </div>
+   <div>
+        <label asp-for="Dept" ></label>
+        <select asp-for="Dept" asp-items="depts" class="form-control">
+        </select>
+        
+    </div>
+    <input type="submit" class="btn btn-sucess" value="Save" />
+</form>
+
+
+
+
+
+<a asp-action="Index" asp-controller="Student" class="btn btn-success">back To List</a>
+

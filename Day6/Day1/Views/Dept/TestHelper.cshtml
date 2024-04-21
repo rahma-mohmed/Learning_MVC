@@ -1,0 +1,69 @@
+﻿@model Department
+<div style="border:2px solid red;margin:10px">
+    <a href="\DEpt\index" class="btn btn-success">Show All department1</a>
+    <br />
+    @Html.ActionLink("Show All department2","Index","Dept",null,new{@class="btn btn-success"})
+    <br />
+    <a class="btn btn-success" asp-action="Index" asp-controller="Dept" >Show All DEpt3</a>
+</div>
+
+<br />
+<div style="border:2px solid red;margin:10px">
+    <a href="\Student\Edit\1" class="btn btn-success">Update</a>
+    <br />
+    @Html.ActionLink("Update","Edit","Student",new{id=1},new{@class="btn btn-success"})
+    <br/>
+    <a asp-action="Edit" asp-controller="Student"  asp-route-id="1"   class="btn btn-success">Update</a>
+</div>
+
+
+@using(Html.BeginForm("SaveAdd","Dept",FormMethod.Get)){
+    <div>
+        @Html.LabelFor(d=>d.Name)
+        @Html.EditorFor(d=>d.Name)
+        
+        @Html.LabelFor(d=>d.ManagerName)
+        @Html.EditorFor(d=>d.ManagerName)
+
+        <input type="submit" value="add"/>
+    </div>
+}
+
+
+
+<label for="Name">Name</label><br />
+<input type="text" id="name" name="Name" class="form-control" style="background-color:lightgoldenrodyellow" />
+@*<input type="text" name="Name" id="Name" value="@Model.Name" class="form-control" />*@
+
+<br />
+<!--Lossly Type Helper-->
+@Html.TextBox("Name",null,new{style="color:red",@class="form-control"})
+<!--viewData["NAme"] or viewbag.Name or Model.NAme or empty -->
+
+<br />
+
+<!--Strong Type Helper-->
+
+@Html.LabelFor(e=>e.Name,"Name")
+@Html.TextBoxFor(d=>d.Name,new{style="background-color:black;color:white",@class="form-control"})
+<!--based on Model search value="Model.Name"-->
+<br />
+<form>
+<h2>Select faviourit Sport</h2>
+   @* <input type="checkbox" name="sport" value="football"/>foolball
+    <input type="checkbox" name="sport" value="volly"/>volly*@
+    <input type="radio" name="gender" value="Male" />MAle
+    <br />
+    <input type="radio" name="gender" value="famale" />MAle
+    <br/>
+    <input type="submit" value="submit" />
+</form>
+<br />
+<form method="get">
+
+    @Html.CheckBox("Agree") I Agree
+    @*<input type="checkbox" name="Agree" value="true"/>Check Me
+    <input type="hidden" name="Agree" value="false"/>Check Me*@
+    <br />
+    <input type="submit" value="click" />
+</form>

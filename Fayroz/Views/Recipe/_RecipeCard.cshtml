@@ -1,0 +1,22 @@
+﻿@model IEnumerable<Fayroz.Models.Recipe>
+
+@foreach(var recipe in Model)
+{
+    <div class="col-sm-4 col-md-4 col-lg-4 col-xl-3 mb-3">
+        <div class="shadow rounded">
+            <div class="card dishcard">
+                <img src="~/images/@recipe.image" class="card-img-top h-75 "/>
+
+                <div class="card-body">
+                    <p class="card-title" style="color:#155e75;">@recipe.name</p>
+                    @*<p class="card-text">
+                        @foreach (var item in @recipe.ingredients) {
+                            <span>@item </span>
+                        }
+                    </p> *@
+                </div>
+
+            </div>
+        </div>
+    </div>
+}

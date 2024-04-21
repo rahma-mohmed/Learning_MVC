@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+
+</head>
+<body>
+    <div style="width:100%;background-color:lightyellow;height:30%"><h1>Header nav @RenderSection("HeaderAdd" , false)</h1></div>
+    <div style="width:100%;display:flex">
+        <div style="width:30%;background-color:greenyellow;height:50%"><h1>Menu @RenderSection("MenuAdd")</h1></div>
+            @*render body to enable change*@
+         <div style="width:30%;background-color:lightgoldenrodyellow;height:50%">
+             <h1>
+                @RenderBody()
+            </h1>
+         </div> 
+    </div>
+    <div style="width:100%;background-color:lightyellow;height:30%"><h1>Footer nav @RenderSection("FooterAdd")</h1></div>
+</body>
+</html>

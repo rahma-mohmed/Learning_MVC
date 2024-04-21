@@ -1,0 +1,29 @@
+﻿@model List<Department>
+
+<h1>No of Department: @Model.Count()</h1>
+<h2>@Model.FirstOrDefault().Name</h2>
+
+
+viewData
+<select class="form-control">
+    @foreach (var item in (List<string>)ViewData["branchList"])
+    {
+        <option>@item</option>
+    }
+</select>
+viewbag
+<select class="form-control">
+    @foreach (var item in ViewBag.branchList)
+    {
+        <option>@item</option>
+    }
+</select>
+<h2>viewData : @ViewData["msg"].ToString()</h2>
+
+<h2>
+    viewData :@ViewData["date"].ToString()
+</h2>
+
+<h2>
+    ViewBag : @ViewBag.date
+</h2>
